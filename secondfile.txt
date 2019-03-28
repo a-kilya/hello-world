@@ -1,1 +1,2 @@
 add newline 2
+add newline 6
